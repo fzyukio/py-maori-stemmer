@@ -1,5 +1,5 @@
-from among import Among
-from basestemmer import BaseStemmer
+from .among import Among
+from .basestemmer import BaseStemmer
 
 
 class MaoriStemmer(BaseStemmer):

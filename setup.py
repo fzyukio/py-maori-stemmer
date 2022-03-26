@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="py-maori-stemmer",
-    version="0.0.1",
+    version="0.0.2",
     author="Yukio Fukuzawa",
     author_email="nishinokaze8@gmail.com",
     description="Stemmer for Maori language",
